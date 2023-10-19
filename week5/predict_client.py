@@ -9,7 +9,7 @@ from sklearn.linear_model import LogisticRegression
 
 app = Flask('client-credit-model-service')
 
-model_file = 'model1.bin'
+model_file = 'model2.bin'
 dv_file = 'dv.bin'
 
 
